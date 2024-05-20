@@ -6,8 +6,12 @@ Linguagem SQL (Structure Query Language - Linguagem de Consulta Estruturada por 
 Equivalente SQL para CRUD - Comandos:
 
 -Create: 'Isert' Ex. "isert into minhatabela set ?" - Inserir dados na minhatabela
+
 -Rede: 'Select' Ex. "select * from minhatabela" - Seleciona os dados da tabela
+
 -Update: 'Update' Ex. "update minhatabela set ? where id = ?" - Atualizar os dados da tabela
+
 -Delete: 'Delete' Ex. "delete from minhatabela where id = ?" - Apaga o registro da tabela
+
 ----------------------------------------------------------------------------------------------------------
 Projeto utilizando MYSQL
